@@ -1,6 +1,6 @@
 ## Compose sample application
 ### Python/FastAPI application
-
+sada
 Project structure:
 ```
 ├── compose.yaml
